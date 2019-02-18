@@ -1,9 +1,10 @@
 {
   "name": "dljsbook",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "All the libraries for Deep Learning With Javascript",
   "author": "Kevin Scott <kevin@dljsbook.com>",
   "license": "MIT",
+  "main": "index.js",
   "dependencies": {
     "@dljsbook/data": "^0.10.0",
     "@dljsbook/models": "^0.10.0",
